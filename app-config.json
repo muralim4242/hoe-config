@@ -1,0 +1,796 @@
+{
+  "logoUrl": "ui-assets/images/hoe_logo.png",
+  "backgroundUrl": "ui-assets/images/wave.png",
+  "backgroundUrl1": "ui-assets/images/background_url1.jpg",
+  "menuItems": [
+    {
+      "headerText": "A creative platform for redemptive brands",
+      "route": "/user-home",
+      "paragaraph": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
+      "rightArrow": "ui-assets/images/arrow.svg",
+      "ourOfferings": {
+        "headerText": "OUR OFFERINGS",
+        "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find around the web",
+        "items": [
+          {
+            "headerText": "ECOM",
+            "number": "01",
+            "color": "#b4ecde",
+            "hasButton": true,
+            "buttonHeader": "button",
+            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros "
+          },
+          {
+            "headerText": "CONSULTING",
+            "number": "02",
+            "color": "#ffdf7f",
+            "hasButton": true,
+            "buttonHeader": "button",
+            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros "
+          },
+          {
+            "headerText": "Business Process as a Service",
+            "number": "03",
+            "color": "#f7dfe7",
+            "hasButton": true,
+            "buttonHeader": "button",
+            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros"
+          }
+        ]
+      },
+      "techTrends": {
+        "headerText": "Tech Trends",
+        "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find  around the web",
+        "items": [
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_1.jpg",
+            "hasButton": true,
+            "outline": false,
+            "buttonHeader": "button"
+          },
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_2.jpg",
+            "hasButton": true,
+            "outline": true,
+            "buttonHeader": "button"
+          },
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
+            "hasButton": true,
+            "outline": false,
+            "buttonHeader": "button"
+          },
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
+            "hasButton": true,
+            "outline": false,
+            "buttonHeader": "button"
+          },
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
+            "hasButton": true,
+            "outline": false,
+            "buttonHeader": "button"
+          },
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
+            "hasButton": true,
+            "outline": false,
+            "buttonHeader": "button"
+          }
+        ]
+      },
+      "ourClients": {
+        "headerText": "Our Clients",
+        "subHeader": "Behind our commitment to excellence are few key attributes that define who we are and what makes us different from any other.",
+        "items": [
+          {
+            "headerText": "",
+            "imageUrl": "ui-assets/images/hdfc_bank.jpg",
+            "background": "#b4ecde",
+            "width": "85%",
+            "height": "175px"
+          },
+          {
+            "headerText": "",
+            "imageUrl": "ui-assets/images/universal.jpg",
+            "background": "#a0d8eb",
+            "width": "100%",
+            "height": "175px"
+          },
+          {
+            "headerText": "",
+            "imageUrl": "ui-assets/images/indian_money.jpg",
+            "background": "#b4ecde",
+            "width": "85%",
+            "height": "175px"
+          },
+          {
+            "headerText": "",
+            "imageUrl": "ui-assets/images/bull_force.jpg",
+            "background": "#a0d8eb",
+            "width": "221px",
+            "height": "275px"
+          },
+          {
+            "headerText": "",
+            "imageUrl": "ui-assets/images/first_life.jpg",
+            "background": "#a0d8eb",
+            "width": "221px",
+            "height": "275px"
+          },
+          {
+            "headerText": "",
+            "imageUrl": "ui-assets/images/yellow_buds.jpg",
+            "background": "#b4ecde",
+            "width": "85%",
+            "height": "175px"
+          },
+          {
+            "headerText": "",
+            "imageUrl": "ui-assets/images/hdfc_logo.jpg",
+            "background": "#b4ecde",
+            "width": "100%",
+            "height": "175px"
+          },
+          {
+            "headerText": "",
+            "imageUrl": "ui-assets/images/star_p.jpg",
+            "background": "#b4ecde",
+            "width": "85%",
+            "height": "175px"
+          }
+        ],
+        "backgroundUrl": "ui-assets/images/right-pic.svg"
+      },
+      "houseOfStats": {
+        "headerText": "House of Ecom brings all your creativity together",
+        "subHeader": "When you need a kickstart in your business and you have no time for coding for your website, xPider will take that job for you and will build a great looking website in minutes.",
+        "items": [
+          {
+            "headerText": "ECOM",
+            "subHeader": "Build anything, anytime!",
+            "points": [
+              "Design and Development",
+              "Upgrades ",
+              "Tech Support Shared Services "
+            ],
+            "hasButton": true,
+            "hasDescriptionRight": true,
+            "hasDivider": true,
+            "imageUrl": "ui-assets/images/hoe_stats_img_1.jpg",
+            "buttonUrl": "ui-assets/images/arrow.svg",
+            "subText": "“Wow. I just updated my site and it was SO SIMPLE. I am blown away. You guys truly kick ass. Thanks for being so awesome. High fives!”",
+            "author": "James Duren, CTO, Fish&co"
+          },
+          {
+            "headerText": "CONSULTING",
+            "subHeader": "Build anything, anytime!",
+            "points": [
+              "Remote development and Offshore development centre",
+              "Staff augmentation & Skills",
+              "Software application design as service",
+              "Co - Development Services",
+              "Product development as service"
+            ],
+            "hasMultiple": true,
+            "images_url": [
+              {
+                "width": "100%",
+                "height": "200px",
+                "src": "ui-assets/images/b-1.jpg"
+              },
+              {
+                "width": "100%",
+                "height": "300px",
+                "src": "ui-assets/images/b-2.jpg"
+              },
+              {
+                "width": "100%",
+                "height": "300px",
+                "src": "ui-assets/images/b-3.jpg"
+              },
+              {
+                "width": "100%",
+                "height": "200px",
+                "src": "ui-assets/images/b-4@2x.jpg"
+              }
+            ],
+            "hasButton": true,
+            "imageUrl": "ui-assets/images/hoe_stats_img_1.jpg",
+            "hasDescriptionRight": false,
+            "buttonUrl": "ui-assets/images/arrow.svg",
+            "hasDivider": true,
+            "subText": "“Wow. I just updated my site and it was SO SIMPLE. I am blown away. You guys truly kick ass. Thanks for being so awesome. High fives!”",
+            "author": "James Duren, CTO, Fish&co"
+          },
+          {
+            "headerText": "Business Process as a Service",
+            "subHeader": "Build anything, anytime!",
+            "points": [
+              "Outcome driven managed Processes",
+              "Automation and Digitization",
+              "Robotic Process Automation",
+              "Work from home enabled on Xi-Frame"
+            ],
+            "hasButton": true,
+            "hasDescriptionRight": true,
+            "hasDivider": true,
+            "imageUrl": "ui-assets/images/hoe_stats_img_1.jpg",
+            "buttonUrl": "ui-assets/images/arrow.svg",
+            "subText": "“Wow. I just updated my site and it was SO SIMPLE. I am blown away. You guys truly kick ass. Thanks for being so awesome. High fives!”",
+            "author": "James Duren, CTO, Fish&co"
+          }
+        ]
+      },
+      "stories": {
+        "headerText": "People love House of Ecom. See some of the stories.",
+        "leftQuoteurl": "ui-assets/images/left_quote.svg",
+        "rightQuoteurl": "ui-assets/images/right_quote.svg",
+        "peoples": [
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_1.jpg"
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_2.jpg"
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_3.jpg"
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_2.jpg"
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": "4 Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_3.jpg"
+          }
+        ]
+      },
+      "feedback": {
+        "headerText": "People love House of Ecom. See some of the stories.",
+        "subHeader": " ",
+        "items": [
+          {
+            "name": "",
+            "imageUrl": "",
+            "comment": ""
+          }
+        ]
+      },
+      "contactUs": {
+        "mapUrl": "ui-assets/images/map.jpg",
+        "backgroundUrl": "ui-assets/images/wave_background.svg",
+        "headerText": "Get notified about new amazing products",
+        "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
+        "contents": ["Product", "Company", " Learn more ", " Get in touch"],
+        "hasButton": true,
+        "searchImageUrl": "ui-assets/images/arrow.svg",
+        "logoUrl": "ui-assets/images/hoe_logo.png",
+        "socialIcons": [
+          {
+            "url": "ui-assets/images/twitter.svg",
+            "nmae": "twitter"
+          },
+          {
+            "url": "ui-assets/images/facebook.svg",
+            "nmae": "facebook"
+          },
+          {
+            "url": "ui-assets/images/linked_in.svg",
+            "nmae": "linked_in"
+          },
+          {
+            "url": "ui-assets/images/instagram.svg",
+            "nmae": "instagram"
+          }
+        ],
+        "copyrightHeader": "© HOUSEOF ECOM"
+      }
+    },
+    {
+      "name": "Ecom",
+      "route": "/user-home/ecom",
+      "headerText": "Heading for Ecom",
+      "rightArrow": "ui-assets/images/arrow.svg",
+      "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
+      "imageUrl": "",
+      "backgroundUrl1": "ui-assets/images/ecom_bg.jpg",
+      "ecomPackages": [
+        {
+          "name": "Megnoto",
+          "imageUrl": "ui-assets/images/ecom_magento_1.jpg"
+        },
+        {
+          "name": "Shopify",
+          "imageUrl": "ui-assets/images/ecom_shopify.jpg"
+        },
+        {
+          "name": "Drupal",
+          "imageUrl": "ui-assets/images/ecom_drupal.jpg"
+        },
+        {
+          "name": "SAP Hybris",
+          "imageUrl": "ui-assets/images/ecom_sap_hybris.jpg"
+        }
+      ],
+      "offers": {
+        "headerText": "Ecom Offers",
+        "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find around the web",
+        "items": [
+          {
+            "imageUrl": "ui-assets/images/ecom_offers_item_1.jpg",
+            "header": "Design & Development",
+            "content": "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
+            "hasButton": true,
+            "buttonText": "Learn more"
+          },
+          {
+            "imageUrl": "ui-assets/images/ecom_offers_item_2.jpg",
+            "header": "Devops & CI- CD related Service",
+            "content": "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
+            "hasButton": true,
+            "buttonText": "Learn more"
+          },
+          {
+            "imageUrl": "ui-assets/images/ecom_offers_item_3.jpg",
+            "header": "Tech & Shared Services ",
+            "content": "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
+            "hasButton": true,
+            "buttonText": "Learn more"
+          }
+        ]
+      },
+      "designsDevelopment": {
+        "headerText": "Design & Development",
+        "subHeader": "Magento, Shopify and Durpal  As platforms Have evoleved over the years , bringing Features- enhancement and uprgrades From Time to time. We are ready to play the role of development partner . ",
+        "imageUrl": "ui-assets/images/illustration@2x.jpg",
+        "items": [
+          {
+            "item_imageUrl": "ui-assets/images/number_1.svg",
+            "header": "Store Setup And configuration",
+            "content": "We setup And configure service to make your online store up And running Within a very Short time . we install responsive  themes to ensure that your costumers get consistent Shopping Experience across all the devices"
+          },
+          {
+            "item_imageUrl": "ui-assets/images/number_2.svg",
+            "header": "Store Setup And configuration",
+            "content": "We setup And configure service to make your online store up And running Within a very Short time . we install responsive  themes to ensure that your costumers get consistent Shopping Experience across all the devices"
+          },
+          {
+            "item_imageUrl": "ui-assets/images/number_3.svg",
+            "header": "Store Setup And configuration",
+            "content": "We setup And configure service to make your online store up And running Within a very Short time . we install responsive  themes to ensure that your costumers get consistent Shopping Experience across all the devices"
+          },
+          {
+            "item_imageUrl": "ui-assets/images/number_4.svg",
+            "header": "Store Setup And configuration",
+            "content": "We setup And configure service to make your online store up And running Within a very Short time . we install responsive  themes to ensure that your costumers get consistent Shopping Experience across all the devices"
+          }
+        ]
+      },
+      "devopService": {
+        "headerText": "Devops & CI- CD related Service",
+        "backgroundUrl": "ui-assets/images/right-pic.svg",
+        "imageUrl": "ui-assets/images/ecom-devops.png",
+        "images": [
+          {
+            "imageUrl": "ui-assets/images/devops_image_1.jpg",
+            "name": "chef"
+          },
+          {
+            "imageUrl": "ui-assets/images/devops_image_2.jpg",
+            "name": "jenkins"
+          },
+          {
+            "imageUrl": "ui-assets/images/devops_image_2.jpg",
+            "name": "jenkins"
+          },
+          {
+            "imageUrl": "ui-assets/images/devops_image_4.jpg",
+            "name": "puppet"
+          },
+          {
+            "imageUrl": "ui-assets/images/devops_image_5.jpg",
+            "name": "grafana"
+          },
+          {
+            "imageUrl": "ui-assets/images/devops_image_6.jpg",
+            "name": "kafka"
+          }
+        ],
+        "points": [
+          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
+          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+        ]
+      },
+      "techSupport": {
+        "headerText": "Tech & shared Support",
+        "imageUrl": "ui-assets/images/tech_support_image_1.svg",
+        "points": [
+          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
+          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+        ],
+        "projectEstimation": {
+          "headerText": "Get the pest project estimation",
+          "buttonText": "Enter your email",
+          "hasButton": true,
+          "imageUrl1": "ui-assets/images/mailBox.png"
+        }
+      },
+      "stories": {
+        "headerText": "People love House of Ecom. See some of the stories.",
+        "leftQuoteurl": "ui-assets/images/left_quote.svg",
+        "rightQuoteurl": "ui-assets/images/right_quote.svg",
+        "peoples": [
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_1.jpg",
+            "active": true
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_2.jpg",
+            "active": false
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_3.jpg",
+            "active": false
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_2.jpg",
+            "active": false
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": "4 Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_3.jpg",
+            "active": false
+          }
+        ]
+      },
+      "contactUs": {
+        "mapUrl": "ui-assets/images/map.jpg",
+        "backgroundUrl": "ui-assets/images/wave_background.svg",
+        "headerText": "Get notified about new amazing products",
+        "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
+        "contents": ["Product", "Company", " Learn more ", " Get in touch"],
+        "hasButton": true,
+        "searchImageUrl": "ui-assets/images/arrow.svg",
+        "logoUrl": "ui-assets/images/hoe_logo.png",
+        "socialIcons": [
+          {
+            "url": "ui-assets/images/twitter.svg",
+            "nmae": "twitter"
+          },
+          {
+            "url": "ui-assets/images/facebook.svg",
+            "nmae": "facebook"
+          },
+          {
+            "url": "ui-assets/images/linked_in.svg",
+            "nmae": "linked_in"
+          },
+          {
+            "url": "ui-assets/images/instagram.svg",
+            "nmae": "instagram"
+          }
+        ],
+        "copyrightHeader": "© HOUSEOF ECOM"
+      }
+    },
+    {
+      "name": "Counsiling",
+      "route": "/user-home/consulting",
+      "headerText": "Heading for Counsiling",
+      "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
+      "backgroundUrl1": "ui-assets/images/consulting_bg.png",
+      "rightArrow": "ui-assets/images/arrow.svg",
+      "headings": [
+        {
+          "imageUrl": "ui-assets/images/consulting_img_1.svg",
+          "heading": "This Offering has been designed to cater to the contextual Need of talent in organisation of various sizes."
+        },
+        {
+          "imageUrl": "ui-assets/images/consulting_img_2.svg",
+          "heading": "Be it a newly launched startup or a large scale organization, there are always instances where the team needs additional bandwidth to meet deadlines."
+        },
+        {
+          "imageUrl": "ui-assets/images/consulting_img_3.svg",
+          "heading": "Under this offerings we are deploying consultants for a periods ranging from 3 months to 12 months , which could be extended based on the need and client’s business strategy."
+        }
+      ],
+      "remoteDevelopment": {
+        "headerText": "Remote Development And offshore Development Centre",
+        "imageUrl": "ui-assets/images/consulting_remote_img.png",
+        "points": [
+          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
+          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+        ]
+      },
+      "staffAgumentation": {
+        "headerText": "Staff agumentation & Skills",
+        "imageUrl": "ui-assets/images/consulting_skills_img.png"
+      },
+      "techTrends": {
+        "headerText": "Tech Trends",
+        "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find  around the web",
+        "items": [
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_1.jpg",
+            "hasButton": true,
+            "outline": false,
+            "buttonHeader": "button"
+          },
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_2.jpg",
+            "hasButton": true,
+            "outline": true,
+            "buttonHeader": "button"
+          },
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
+            "hasButton": true,
+            "outline": false,
+            "buttonHeader": "button"
+          },
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
+            "hasButton": true,
+            "outline": false,
+            "buttonHeader": "button"
+          },
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
+            "hasButton": true,
+            "outline": false,
+            "buttonHeader": "button"
+          },
+          {
+            "headerText": "Lorem Ipsum",
+            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
+            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
+            "hasButton": true,
+            "outline": false,
+            "buttonHeader": "button"
+          }
+        ]
+      },
+      "projectEstimation": {
+        "headerText": "Get the pest project estimation",
+        "buttonText": "Enter your email",
+        "hasButton": true,
+        "imageUrl1": "ui-assets/images/mailBox.png"
+      },
+      "stories": {
+        "headerText": "People love House of Ecom. See some of the stories.",
+        "leftQuoteurl": "ui-assets/images/left_quote.svg",
+        "rightQuoteurl": "ui-assets/images/right_quote.svg",
+        "peoples": [
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_1.jpg",
+            "active": true
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_2.jpg",
+            "active": false
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_3.jpg",
+            "active": false
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_2.jpg",
+            "active": false
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": "4 Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_3.jpg",
+            "active": false
+          }
+        ]
+      },
+      "contactUs": {
+        "mapUrl": "ui-assets/images/map.jpg",
+        "backgroundUrl": "ui-assets/images/wave_background.svg",
+        "headerText": "Get notified about new amazing products",
+        "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
+        "contents": ["Product", "Company", " Learn more ", " Get in touch"],
+        "hasButton": true,
+        "searchImageUrl": "ui-assets/images/arrow.svg",
+        "logoUrl": "ui-assets/images/hoe_logo.png",
+        "socialIcons": [
+          {
+            "url": "ui-assets/images/twitter.svg",
+            "nmae": "twitter"
+          },
+          {
+            "url": "ui-assets/images/facebook.svg",
+            "nmae": "facebook"
+          },
+          {
+            "url": "ui-assets/images/linked_in.svg",
+            "nmae": "linked_in"
+          },
+          {
+            "url": "ui-assets/images/instagram.svg",
+            "nmae": "instagram"
+          }
+        ],
+        "copyrightHeader": "© HOUSEOF ECOM"
+      }
+    },
+    {
+      "name": "Bussiness Process as a Service",
+      "route": "/user-home/bussiness",
+      "headerText": "Heading for Business Process Service",
+      "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
+      "backgroundUrl1": "ui-assets/images/consulting_bg.png",
+      "rightArrow": "ui-assets/images/arrow.svg",
+      "business_services": {
+        "headerText": "Business Process service Offers",
+        "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in.",
+        "offers": [
+          {
+            "headerText": "Outcome driven manage Processes",
+            "imageUrl": "ui-assets/images/bussiness-services/filter-organization.svg",
+            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros ."
+          },
+          {
+            "headerText": "Automation And Digitalization",
+            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .",
+            "imageUrl": "ui-assets/images/bussiness-services/meeting.svg"
+          },
+          {
+            "headerText": "Work from home enable XI- frame",
+            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .",
+            "imageUrl": "ui-assets/images/bussiness-services/family.svg"
+          }
+        ],
+        "services": [
+          {
+            "headerText": "Software Application Design as service ",
+            "hasImageRight": false,
+            "points": [
+              "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
+              "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+            ],
+            "imageUrl": "ui-assets/images/bussiness-services/image_1.svg"
+          },
+          {
+            "headerText": "Co - Development as service ",
+            "imageUrl": "ui-assets/images/bussiness-services/image_2.svg",
+            "hasImageRight": true,
+            "points": [
+              "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+            ]
+          },
+          {
+            "headerText": "Product Development as service ",
+            "hasImageRight": false,
+            "points": [
+              "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+            ],
+            "imageUrl": "ui-assets/images/bussiness-services/image_3.svg"
+          }
+        ]
+      },
+      "projectEstimation": {
+        "headerText": "Get the pest project estimation",
+        "buttonText": "Enter your email",
+        "hasButton": true,
+        "imageUrl1": "ui-assets/images/mailBox.png"
+      },
+      "stories": {
+        "headerText": "People love House of Ecom. See some of the stories.",
+        "leftQuoteurl": "ui-assets/images/left_quote.svg",
+        "rightQuoteurl": "ui-assets/images/right_quote.svg",
+        "peoples": [
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_1.jpg",
+            "active": true
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_2.jpg",
+            "active": false
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_3.jpg",
+            "active": false
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_2.jpg",
+            "active": false
+          },
+          {
+            "name": "Mollie Jennings",
+            "comment": "4 Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. Corporate social responsibility policymaker inclusion, resist; compassion mass incarceration correlation white paper. Program area energize optimism radical shared value policymaker milestones.",
+            "image": "ui-assets/images/stories_3.jpg",
+            "active": false
+          }
+        ]
+      },
+      "contactUs": {
+        "mapUrl": "ui-assets/images/map.jpg",
+        "backgroundUrl": "ui-assets/images/wave_background.svg",
+        "headerText": "Get notified about new amazing products",
+        "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
+        "contents": ["Product", "Company", " Learn more ", " Get in touch"],
+        "hasButton": true,
+        "searchImageUrl": "ui-assets/images/arrow.svg",
+        "logoUrl": "ui-assets/images/hoe_logo.png",
+        "socialIcons": [
+          {
+            "url": "ui-assets/images/twitter.svg",
+            "nmae": "twitter"
+          },
+          {
+            "url": "ui-assets/images/facebook.svg",
+            "nmae": "facebook"
+          },
+          {
+            "url": "ui-assets/images/linked_in.svg",
+            "nmae": "linked_in"
+          },
+          {
+            "url": "ui-assets/images/instagram.svg",
+            "nmae": "instagram"
+          }
+        ],
+        "copyrightHeader": "© HOUSEOF ECOM"
+      }
+    }
+  ]
+}
