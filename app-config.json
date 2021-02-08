@@ -505,9 +505,9 @@
       }
     },
     {
-      "name": "Counsiling",
+      "name": "Consulting",
       "route": "/user-home/consulting",
-      "headerText": "Heading for Counsiling",
+      "headerText": "Heading for Consulting",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "backgroundUrl1": "ui-assets/images/consulting_bg.png",
       "rightArrow": "ui-assets/images/arrow.svg",
@@ -667,7 +667,7 @@
     {
       "name": "Bussiness Process as a Service",
       "route": "/user-home/bussiness",
-      "headerText": "Heading for Business Process Service",
+      "headerText": "BPS - Business Process Service",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "backgroundUrl1": "ui-assets/images/consulting_bg.png",
       "rightArrow": "ui-assets/images/arrow.svg",
