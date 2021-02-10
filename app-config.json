@@ -164,7 +164,7 @@
             "subHeader": "Build anything, anytime!",
             "points": [
               "Design and Development",
-              "Upgrades ",
+              "Upgrades and CICD Related Services",
               "Tech Support Shared Services "
             ],
             "hasButton": true,
@@ -217,8 +217,8 @@
             "author": "James Duren, CTO, Fish&co"
           },
           {
-            "headerText": "Business Process as a Service",
-            "subHeader": "Build anything, anytime!",
+            "headerText": "BPS",
+            "subHeader": "Business Process as a Service",
             "points": [
               "Outcome driven managed Processes",
               "Automation and Digitization",
@@ -363,28 +363,28 @@
       },
       "designsDevelopment": {
         "headerText": "Design & Development",
-        "subHeader": "Magento, Shopify and Durpal  As platforms Have evoleved over the years , bringing Features- enhancement and uprgrades From Time to time. We are ready to play the role of development partner . ",
+        "subHeader": "Magento, Shopify and Durpal  As platforms Have evolved over the years , bringing Features- enhancement and uprgrades from time to time. We are ready to play the role of development partner. We bring the years of experience of developing and maintaining the ecommerce stores into your business.",
         "imageUrl": "ui-assets/images/illustration@2x.jpg",
         "items": [
           {
             "item_imageUrl": "ui-assets/images/number_1.svg",
             "header": "Store Setup And configuration",
-            "content": "We setup And configure service to make your online store up And running Within a very Short time . we install responsive  themes to ensure that your costumers get consistent Shopping Experience across all the devices"
+            "content": "We setup and configure service to make your online store up and running Within a very short time . we install responsive  themes to ensure that your customers get consistent shopping experience across all the devices"
           },
           {
             "item_imageUrl": "ui-assets/images/number_2.svg",
-            "header": "Store Setup And configuration",
-            "content": "We setup And configure service to make your online store up And running Within a very Short time . we install responsive  themes to ensure that your costumers get consistent Shopping Experience across all the devices"
+            "header": "Theme Design and Customization",
+            "content": "Our approach is to follow platform's standards to design and develop themes from the scratch. We ensure that the theme developed is apt for your e-commerce business and customize them as per the needs of the business."
           },
           {
             "item_imageUrl": "ui-assets/images/number_3.svg",
-            "header": "Store Setup And configuration",
-            "content": "We setup And configure service to make your online store up And running Within a very Short time . we install responsive  themes to ensure that your costumers get consistent Shopping Experience across all the devices"
+            "header": "Integration",
+            "content": "We assist clients to take your e-commerce store a notch higher by integrating third-party solutions such as social login, Amazon, eBay, QuickBooks, shipping and payment gateway apps."
           },
           {
             "item_imageUrl": "ui-assets/images/number_4.svg",
-            "header": "Store Setup And configuration",
-            "content": "We setup And configure service to make your online store up And running Within a very Short time . we install responsive  themes to ensure that your costumers get consistent Shopping Experience across all the devices"
+            "header": "SEO",
+            "content": "Though the Shopify platform comes with SEO rich features, you still need to have strategy that helps you earn meaximum ROI. We help you enhance the store's SEO to show up on popular search engines like Google and/or Bing."
           }
         ]
       },
