@@ -419,16 +419,16 @@
           }
         ],
         "points": [
-          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
-          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+          "The offering covers various activities related to software version upgrades and functionality upgrades to add value to client's system and ensure its peak performance in the rapidly changing business environment.",
+          "Assignments related to DevOps consulting are also undertaken which would be the key part software application development cycle and also post deployment application management."
         ]
       },
       "techSupport": {
         "headerText": "Tech & shared Support",
         "imageUrl": "ui-assets/images/tech_support_image_1.svg",
         "points": [
-          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
-          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+          "Majority of the small and medium scale businesses would not enough load to have/maintain a captive tech support team. This offering has been designed to assist clients with a tech support team on a shared cost model, without compromising on the end customer focus and the TAT of the responses and issue resolutions.",
+          "These services cover extended application software post-release support, operational, and helpdesk support to address various concerns and issues that may arise due to several reasons."
         ],
         "projectEstimation": {
           "headerText": "Get the pest project estimation",
@@ -507,7 +507,7 @@
     {
       "name": "Consulting",
       "route": "/user-home/consulting",
-      "headerText": "Heading for Consulting",
+      "headerText": "Consulting",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "backgroundUrl1": "ui-assets/images/consulting_bg.png",
       "rightArrow": "ui-assets/images/arrow.svg",
@@ -526,11 +526,13 @@
         }
       ],
       "remoteDevelopment": {
-        "headerText": "Remote Development And offshore Development Centre",
+        "headerText": "Remote development and Offshore development centre",
         "imageUrl": "ui-assets/images/consulting_remote_img.png",
         "points": [
-          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
-          "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+          "The concept of Remote development has got proved beyond the doubt during Covid times.",
+          "The next challenge has emerged, to fight the right developers with required skills within the shortest possible times.",
+          "This has been addressed through the talent bench available at House of ECOM",
+          "We also specialise in setting-up highly customized offshore development centers with end-to-end management covering talent acquisition, performance management, statutory obligations and overall operations management."
         ]
       },
       "staffAgumentation": {
