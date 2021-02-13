@@ -527,15 +527,18 @@
       "headings": [
         {
           "imageUrl": "ui-assets/images/consulting_img_1.svg",
-          "heading": "This Offering has been designed to cater to the contextual Need of talent in organisation of various sizes."
+          "headerText":"heading 1",
+          "subHeader": "This Offering has been designed to cater to the contextual Need of talent in organisation of various sizes."
         },
         {
           "imageUrl": "ui-assets/images/consulting_img_2.svg",
-          "heading": "Be it a newly launched startup or a large scale organization, there are always instances where the team needs additional bandwidth to meet deadlines."
+          "headerText":"heading 2",
+          "subHeader": "Be it a newly launched startup or a large scale organization, there are always instances where the team needs additional bandwidth to meet deadlines."
         },
         {
           "imageUrl": "ui-assets/images/consulting_img_3.svg",
-          "heading": "Under this offerings we are deploying consultants for a periods ranging from 3 months to 12 months , which could be extended based on the need and client’s business strategy."
+          "headerText":"heading 3",
+          "subHeader": "Under this offerings we are deploying consultants for a periods ranging from 3 months to 12 months , which could be extended based on the need and client’s business strategy."
         }
       ],
       "remoteDevelopment": {
