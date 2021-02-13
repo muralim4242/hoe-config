@@ -169,6 +169,7 @@
             ],
             "hasButton": true,
             "hasDescriptionRight": true,
+            "route": "/user-home/ecom",
             "hasDivider": true,
             "imageUrl": "ui-assets/images/hoe_stats_img_1.jpg",
             "buttonUrl": "ui-assets/images/arrow.svg",
@@ -178,6 +179,7 @@
           {
             "headerText": "CONSULTING",
             "subHeader": "Build anything, anytime!",
+            "route": "/user-home/consulting",
             "points": [
               "Remote development and Offshore development centre",
               "Staff augmentation & Skills",
@@ -219,6 +221,7 @@
           {
             "headerText": "BPS",
             "subHeader": "Business Process as a Service",
+            "route": "/user-home/bussiness",
             "points": [
               "Outcome driven managed Processes",
               "Automation and Digitization",
@@ -283,7 +286,12 @@
         "backgroundUrl": "ui-assets/images/wave_background.svg",
         "headerText": "Get notified about new amazing products",
         "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
-        "contents": ["Product", "Company", " Learn more ", " Get in touch"],
+        "contents": [
+          "Product",
+          "Company",
+          " Learn more ",
+          " Get in touch"
+        ],
         "hasButton": true,
         "searchImageUrl": "ui-assets/images/arrow.svg",
         "logoUrl": "ui-assets/images/hoe_logo.png",
@@ -479,7 +487,12 @@
         "backgroundUrl": "ui-assets/images/wave_background.svg",
         "headerText": "Get notified about new amazing products",
         "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
-        "contents": ["Product", "Company", " Learn more ", " Get in touch"],
+        "contents": [
+          "Product",
+          "Company",
+          " Learn more ",
+          " Get in touch"
+        ],
         "hasButton": true,
         "searchImageUrl": "ui-assets/images/arrow.svg",
         "logoUrl": "ui-assets/images/hoe_logo.png",
@@ -641,7 +654,12 @@
         "backgroundUrl": "ui-assets/images/wave_background.svg",
         "headerText": "Get notified about new amazing products",
         "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
-        "contents": ["Product", "Company", " Learn more ", " Get in touch"],
+        "contents": [
+          "Product",
+          "Company",
+          " Learn more ",
+          " Get in touch"
+        ],
         "hasButton": true,
         "searchImageUrl": "ui-assets/images/arrow.svg",
         "logoUrl": "ui-assets/images/hoe_logo.png",
@@ -727,6 +745,48 @@
         "hasButton": true,
         "imageUrl1": "ui-assets/images/mailBox.png"
       },
+      "robotics": {
+        "headerText": "Robotic Process Automation",
+        "subHeader": "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagitti",
+        "tabs": [
+          {
+            "name": "Accelerate time to value ",
+            "id": 1,
+            "imageUrl": "ui-assets/images/bussiness-services/tab-1-image.svg",
+            "description": {
+              "imageUrl": "ui-assets/images/bussiness-services/tab-1-desc-image.svg",
+              "headerText": "Build anything, anytime!",
+              "points": [
+                "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+              ]
+            }
+          },
+          {
+            "name": "Reduce Human error",
+            "id": 2,
+            "imageUrl": "ui-assets/images/bussiness-services/tab-2-image.svg",
+            "description": {
+              "imageUrl": "ui-assets/images/bussiness-services/tab-1-desc-image.svg",
+              "headerText": "Build anything, anytime!",
+              "points": [
+                "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+              ]
+            }
+          },
+          {
+            "name": "Increase throughtput",
+            "id": 3,
+            "imageUrl": "ui-assets/images/bussiness-services/tab-3-image.svg",
+            "description": {
+              "imageUrl": "ui-assets/images/bussiness-services/tab-1-desc-image.svg",
+              "headerText": "Build anything, anytime!",
+              "points": [
+                "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+              ]
+            }
+          }
+        ]
+      },
       "stories": {
         "headerText": "People love House of Ecom. See some of the stories.",
         "leftQuoteurl": "ui-assets/images/left_quote.svg",
@@ -769,7 +829,12 @@
         "backgroundUrl": "ui-assets/images/wave_background.svg",
         "headerText": "Get notified about new amazing products",
         "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
-        "contents": ["Product", "Company", " Learn more ", " Get in touch"],
+        "contents": [
+          "Product",
+          "Company",
+          " Learn more ",
+          " Get in touch"
+        ],
         "hasButton": true,
         "searchImageUrl": "ui-assets/images/arrow.svg",
         "logoUrl": "ui-assets/images/hoe_logo.png",
