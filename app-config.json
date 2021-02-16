@@ -555,6 +555,32 @@
         "headerText": "Staff agumentation & Skills",
         "imageUrl": "ui-assets/images/consulting_skills_img.png"
       },
+      "softwareApplicationDesignasservice": {
+        "headerText": "Software Application Design as service ",
+        "imageUrl": "ui-assets/images/consulting_remote_img.png",
+        "points": [
+          "Design consistency is what ties User Interface elements together with distinguishable and predictable actions, whcih is the key for great product experience. A way to simplify things is to think of it as a commitment that you make to your users so that they can easily interact with your product.",
+          "As they become more acquainted and become regular users, they begin to trust the product more and more, which is a reflection of the consistent design. To provide users with a consistent User Interface."
+         ],
+         "imageUrl": "ui-assets/images/bussiness-services/image_1.svg"
+       },
+      "coDevAsService": {
+        "headerText": "Co - Development as service",
+        "imageUrl": "ui-assets/images/consulting_remote_img.png",
+        "points": [
+          "The concept of Co-Development has taken the place of outsourced product development in the present context. Majority of the startups are in the favour of this model. In this model of engagement, the co-development partner would have a portion of the costs paid as a part of client's revenue during the pre agreed period. Under this offering, we would be assisting the clients to develop the product and also pay an extented roles like post development support and Marketing assistance etc.",
+          "The next challenge has emerged, to fight the right developers with required skills within the shortest possible times.",
+          "This has been addressed through the talent bench available at House of ECOM",
+          "We also specialise in setting-up highly customized offshore development centers with end-to-end management covering talent acquisition, performance management, statutory obligations and overall operations management."
+        ]
+      },
+      "productDevAsService": {
+        "headerText": "Product Development as service ",
+        "imageUrl": "ui-assets/images/consulting_remote_img.png",
+        "points": [
+          "This offering is designed to handle the development of applications both for mobile and desktops. These applications ranges from the development of 'Proof of concepts' for validations of ideas and investor pitching to very large scale multienancy B2B and B2C applications."
+          ]
+      },
       "techTrends": {
         "headerText": "Tech Trends",
         "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find  around the web",
