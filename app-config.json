@@ -720,7 +720,7 @@
       "name": "Bussiness Process as a Service",
       "route": "/user-home/bussiness",
       "headerText": "BPS - Business Process Service",
-      "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
+      "subHeader": "We bring decades of expertise to identify the opportunities for outsourcing, designing customer centric methodologies for transition, technology enablement, stabilizing the operations at the best levels of efficiencies",
       "backgroundUrl": "ui-assets/images/wave.png",
       "rightArrow": "ui-assets/images/arrow.svg",
       "imageUrl": "ui-assets/images/bussiness-services/header-image.svg",
@@ -746,27 +746,29 @@
         ],
         "services": [
           {
-            "headerText": "Software Application Design as service ",
+            "headerText": "Outcome driven manage Processes",
             "hasImageRight": false,
             "points": [
-              "Design consistency is what ties User Interface elements together with distinguishable and predictable actions, whcih is the key for great product experience. A way to simplify things is to think of it as a commitment that you make to your users so that they can easily interact with your product.",
-              "As they become more acquainted and become regular users, they begin to trust the product more and more, which is a reflection of the consistent design. To provide users with a consistent User Interface."
+              "The offering is designed to efficiently manage the complete delivery responsibility beginning from Business discovery to BAU(business as usual) functioning of the processes",
+              "The contracts under this category are focused towards outcomes and not efforts."
             ],
             "imageUrl": "ui-assets/images/bussiness-services/image_1.svg"
           },
           {
-            "headerText": "Co - Development as service ",
+            "headerText": "Automation And Digitalization",
             "imageUrl": "ui-assets/images/bussiness-services/image_2.svg",
             "hasImageRight": true,
             "points": [
-              "The concept of Co-Development has taken the place of outsourced product development in the present context. Majority of the startups are in the favour of this model. In this model of engagement, the co-development partner would have a portion of the costs paid as a part of client's revenue during the pre agreed period. Under this offering, we would be assisting the clients to develop the product and also pay an extented roles like post development support and Marketing assistance etc."
+              "Automization and Digitalization would be the key parts of the Business processing services offering."
+              "In majority of the cases this would be the part of the transition roadmap or the part of continuous improvement post BAU."
             ]
           },
           {
-            "headerText": "Product Development as service ",
+            "headerText": "Work from home enable XI- frame",
             "hasImageRight": false,
             "points": [
-              "This offering is designed to handle the development of applications both for mobile and desktops. These applications ranges from the development of 'Proof of concepts' for validations of ideas and investor pitching to very large scale multienancy B2B and B2C applications."
+              "Xi-Frame is a Desktop-as-a-Service(DaaS) solution that lets you access your apps on any device and from any location. Easily create virtual workspaces for your teams, customers, or partners in under the an hour.",
+              "This ensures a highly secured way of working from remote locations and brings considerable cost saving opportunities on the table."
             ],
             "imageUrl": "ui-assets/images/bussiness-services/image_3.svg"
           }
@@ -780,7 +782,7 @@
       },
       "robotics": {
         "headerText": "Robotic Process Automation",
-        "subHeader": "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagitti",
+        "subHeader": "Automating the repetitive tasks saves time and money. Robotic process automation bots expand the value of an automation platform by completing tasks faster, allowing employees to perform higher-value work.",
         "tabs": [
           {
             "name": "Accelerate time to value ",
@@ -790,7 +792,7 @@
               "imageUrl": "ui-assets/images/bussiness-services/tab-1-desc-image.svg",
               "headerText": "Build anything, anytime!",
               "points": [
-                "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+                "Create,test and deploy new automation schemes in hours, instead of days or months."
               ]
             }
           },
@@ -802,7 +804,7 @@
               "imageUrl": "ui-assets/images/bussiness-services/tab-1-desc-image.svg",
               "headerText": "Build anything, anytime!",
               "points": [
-                "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+                "Virtually eliminate copy-and-paste mistakes from entering the same data into multiple systems"
               ]
             }
           },
@@ -814,7 +816,7 @@
               "imageUrl": "ui-assets/images/bussiness-services/tab-1-desc-image.svg",
               "headerText": "Build anything, anytime!",
               "points": [
-                "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leoUt bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo"
+                "Complete automated tasks in seconds or minutes to deliver higher value for your customers."
               ]
             }
           }
