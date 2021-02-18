@@ -8,6 +8,8 @@
       "route": "/user-home",
       "paragaraph": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "rightArrow": "ui-assets/images/arrow.svg",
+      "imageUrl": "ui-assets/images/home/home_image.svg",
+      "backgroundImage": "ui-assets/images/wave.png",
       "ourOfferings": {
         "headerText": "OUR OFFERINGS",
         "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find around the web",
@@ -322,8 +324,8 @@
       "headerText": "Heading for Ecom",
       "rightArrow": "ui-assets/images/arrow.svg",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
-      "imageUrl": "",
-      "backgroundUrl1": "ui-assets/images/ecom_bg.jpg",
+      "imageUrl": "ui-assets/images/ecom/ecom-image.jpg",
+      "backgroundUrl": "ui-assets/images/wave.png",
       "ecomPackages": [
         {
           "name": "Megnoto",
@@ -522,7 +524,8 @@
       "route": "/user-home/consulting",
       "headerText": "Consulting",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
-      "backgroundUrl1": "ui-assets/images/consulting_bg.png",
+      "backgroundUrl": "ui-assets/images/wave.png",
+      "imageUrl": "ui-assets/images/consulting/header-image.jpg",
       "rightArrow": "ui-assets/images/arrow.svg",
       "headings": [
         {
@@ -718,8 +721,9 @@
       "route": "/user-home/bussiness",
       "headerText": "BPS - Business Process Service",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
-      "backgroundUrl1": "ui-assets/images/consulting_bg.png",
+      "backgroundUrl": "ui-assets/images/wave.png",
       "rightArrow": "ui-assets/images/arrow.svg",
+      "imageUrl": "ui-assets/images/bussiness-services/header-image.svg",
       "business_services": {
         "headerText": "Business Process service Offers",
         "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in.",
