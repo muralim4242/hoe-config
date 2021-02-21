@@ -18,8 +18,9 @@
             "headerText": "ECOM",
             "number": "01",
             "color": "#b4ecde",
-            "hasButton": true,
+            "hasButton": true,            
             "buttonHeader": "button",
+            "route": "/user-home/ecom",
             "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros "
           },
           {
@@ -28,6 +29,7 @@
             "color": "#ffdf7f",
             "hasButton": true,
             "buttonHeader": "button",
+            "route": "/user-home/consulting",
             "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros "
           },
           {
@@ -36,6 +38,7 @@
             "color": "#f7dfe7",
             "hasButton": true,
             "buttonHeader": "button",
+            "route": "/user-home/bussiness",
             "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros"
           }
         ]
