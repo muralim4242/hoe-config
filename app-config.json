@@ -158,7 +158,7 @@
             "height": "175px"
           }
         ],
-        "backgroundUrl": "ui-assets/images/right-pic.svg"
+        "backgroundUrl": "ui-assets/images/right-pic-1.svg"
       },
       "houseOfStats": {
         "headerText": "House of Ecom brings all your creativity together",
@@ -403,7 +403,8 @@
       },
       "devopService": {
         "headerText": "Devops & CI- CD related Service",
-        "backgroundUrl": "ui-assets/images/right-pic.svg",
+        "backgroundUrl": "ui-assets/images/
+        -1.svg",
         "imageUrl": "ui-assets/images/ecom-devops.png",
         "images": [
           {
