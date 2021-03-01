@@ -1,6 +1,6 @@
 {
   "logoUrl": "ui-assets/images/hoe_logo.png",
-  "backgroundUrl": "ui-assets/images/wave.svg",
+  "backgroundUrl": "ui-assets/images/wave_bg.svg",
   "backgroundUrl1": "ui-assets/images/background_url1.jpg",
   "menuItems": [
     {
@@ -9,7 +9,7 @@
       "paragaraph": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "rightArrow": "ui-assets/images/arrow.svg",
       "imageUrl": "ui-assets/images/home/home_image.svg",
-      "backgroundImage": "ui-assets/images/wave.svg",
+      "backgroundImage": "ui-assets/images/wave_bg.svg",
       "ourOfferings": {
         "headerText": "OUR OFFERINGS",
         "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find around the web",
@@ -328,7 +328,7 @@
       "rightArrow": "ui-assets/images/arrow.svg",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "imageUrl": "ui-assets/images/ecom/ecom-image.jpg",
-      "backgroundUrl": "ui-assets/images/wave.svg",
+      "backgroundUrl": "ui-assets/images/wave_bg.svg",
       "ecomPackages": [
         {
           "name": "Megnoto",
@@ -527,7 +527,7 @@
       "route": "/user-home/consulting",
       "headerText": "Consulting",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
-      "backgroundUrl": "ui-assets/images/wave.svg",
+      "backgroundUrl": "ui-assets/images/wave_bg.svg",
       "imageUrl": "ui-assets/images/consulting/header-image.jpg",
       "rightArrow": "ui-assets/images/arrow.svg",
       "headings": [
@@ -730,7 +730,7 @@
       "route": "/user-home/bussiness",
       "headerText": "BPS - Business Process Service",
       "subHeader": "We bring decades of expertise to identify the opportunities for outsourcing, designing customer centric methodologies for transition, technology enablement, stabilizing the operations at the best levels of efficiencies",
-      "backgroundUrl": "ui-assets/images/wave.svg",
+      "backgroundUrl": "ui-assets/images/wave_bg.svg",
       "rightArrow": "ui-assets/images/arrow.svg",
       "imageUrl": "ui-assets/images/bussiness-services/header-image.svg",
       "business_services": {
