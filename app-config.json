@@ -333,7 +333,7 @@
       "headerText": "Heading for Ecom",
       "rightArrow": "ui-assets/images/arrow.svg",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
-      "imageUrl": "ui-assets/images/ecom/ecom-image.jpg",
+      "imageUrl": "ui-assets/images/ecom/ecom-image.svg",
       "backgroundUrl": "ui-assets/images/wave_bg.svg",
       "ecomPackages": [
         {
@@ -534,7 +534,7 @@
       "headerText": "Consulting",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "backgroundUrl": "ui-assets/images/wave_bg.svg",
-      "imageUrl": "ui-assets/images/consulting/header-image.jpg",
+      "imageUrl": "ui-assets/images/consulting/header-image.svg",
       "rightArrow": "ui-assets/images/arrow.svg",
       "headings": [
         {
@@ -567,15 +567,6 @@
         "headerText": "Staff agumentation & Skills",
         "imageUrl": "ui-assets/images/consulting_skills_img.png"
       },
-      "softwareApplicationDesignasservice": {
-        "headerText": "Software Application Design as service ",
-        "imageUrl": "ui-assets/images/consulting_remote_img.png",
-        "points": [
-          "Design consistency is what ties User Interface elements together with distinguishable and predictable actions, whcih is the key for great product experience. A way to simplify things is to think of it as a commitment that you make to your users so that they can easily interact with your product.",
-          "As they become more acquainted and become regular users, they begin to trust the product more and more, which is a reflection of the consistent design. To provide users with a consistent User Interface."
-         ],
-         "imageUrl": "ui-assets/images/bussiness-services/image_1.svg"
-       },
       "coDevAsService": {
         "headerText": "Co - Development as service",
         "imageUrl": "ui-assets/images/consulting_remote_img.png",
