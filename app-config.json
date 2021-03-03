@@ -52,7 +52,7 @@
             "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
             "imageUrl": "ui-assets/images/tech_trend_img_1.jpg",
             "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4",
-            "hasButton": true,
+            "hasButton": false,
             "outline": false,
             "buttonHeader": "button"
           },
@@ -61,7 +61,7 @@
             "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
             "imageUrl": "ui-assets/images/tech_trend_img_2.jpg",
             "videoUrl": "https://youtu.be/HOD6yqCejYk",
-            "hasButton": true,
+            "hasButton": false,
             "outline": true,
             "buttonHeader": "button"
           },
@@ -70,7 +70,7 @@
             "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
             "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
             "videoUrl": "https://m.youtube.com/watch?v=uirMQDdW4-c&feature=youtu.be",
-            "hasButton": true,
+            "hasButton": false,
             "outline": false,
             "buttonHeader": "button"
           },
@@ -79,7 +79,7 @@
             "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
             "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
             "videoUrl": "https://m.youtube.com/watch?v=uirMQDdW4-c&feature=youtu.be",
-            "hasButton": true,
+            "hasButton": false,
             "outline": false,
             "buttonHeader": "button"
           },
@@ -88,7 +88,7 @@
             "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
             "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
              "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4",
-            "hasButton": true,
+            "hasButton": false,
             "outline": false,
             "buttonHeader": "button"
           },
@@ -97,7 +97,7 @@
             "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
             "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
              "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4",
-            "hasButton": true,
+            "hasButton": false,
             "outline": false,
             "buttonHeader": "button"
           }
