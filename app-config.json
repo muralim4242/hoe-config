@@ -559,6 +559,14 @@
           "We also specialise in setting-up highly customized offshore development centers with end-to-end management covering talent acquisition, performance management, statutory obligations and overall operations management."
         ]
       },
+      "softwareDesignAsaService": {
+        "headerText": "Software Design as a service ",
+        "imageUrl": "ui-assets/images/consulting_remote_img.png",
+        "points": [
+          "Design Consistency is what ties User Interface elements together with distinguishable and predictable actions, which is the key for great product experience. A way to simplify things is to think of it as a commitment that they make to your users so that they can they can easily interact with your product.",
+          "As they become more acquainted and become regular users, they begin to trust the product more and more, which is a reflection of the consistent design. To provide users with a consistent User Interface."
+          ]
+      },
       "productDevAsService": {
         "headerText": "Product Development as service ",
         "imageUrl": "ui-assets/images/consulting_remote_img.png",
