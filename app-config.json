@@ -6,8 +6,8 @@
     {
       "headerText": "A creative platform for redemptive brands",
       "route": "/user-home",
-      "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
-      "paragaraph": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
+      "subHeader": "House of ECOM is a clan of brilliant professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
+      "paragaraph": "House of ECOM is a clan of brilliant professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "rightArrow": "ui-assets/images/arrow.svg",
       "imageUrl": "ui-assets/images/home/home_image.svg",
       "backgroundColor": "#cad6f4",
@@ -16,7 +16,7 @@
         "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find around the web",
         "items": [
           {
-            "headerText": "ECOM",
+            "headerText": "Integration Platform",
             "number": "01",
             "color": "#b4ecde",
             "hasButton": true,            
@@ -154,7 +154,7 @@
         "subHeader": "When you need a kickstart in your business and you have no time for coding for your website, xPider will take that job for you and will build a great looking website in minutes.",
         "items": [
           {
-            "headerText": "ECOM",
+            "headerText": "Integration Platform",
             "subHeader": "Build anything, anytime!",
             "points": [
               "Design and Development",
@@ -311,9 +311,9 @@
       }
     },
     {
-      "name": "Ecom",
+      "name": "Integration Platform",
       "route": "/user-home/ecom",
-      "headerText": "Heading for Ecom",
+      "headerText": "Integration Platform",
       "rightArrow": "ui-assets/images/arrow.svg",
       "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "imageUrl": "ui-assets/images/ecom/ecom-image.svg",
@@ -337,7 +337,7 @@
         }
       ],
       "offers": {
-        "headerText": "Ecom Offers",
+        "headerText": "Integration Platform Offers",
         "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find around the web",
         "items": [
           {
@@ -515,7 +515,7 @@
       "name": "Consulting",
       "route": "/user-home/consulting",
       "headerText": "Consulting",
-      "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
+      "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of Ecommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "backgroundColor": "#cad6f4",
       "imageUrl": "ui-assets/images/consulting/header-image.svg",
       "rightArrow": "ui-assets/images/arrow.svg",
@@ -562,6 +562,16 @@
       },
          "services": [
         {
+          "headerText": "Software application design as service ",
+          "imageUrl": "ui-assets/images/consulting_remote_img.png",
+          "points": [
+            "Design consistency is what ties User Interface elements together with distinguishable and predictable actions, which is the key for great product experience. A way to simplify things is to think of it as a commitment that you make to your users so that they can easily interact with your product.",
+            "As they become more acquainted and become more regular users, they begin to trust the product more and more, which is a reflection of the consistent design. To provide users with a consistent User Interface.",
+            ""
+            
+          ]
+        },
+        {
           "headerText": "Co - Development as service",
           "imageUrl": "ui-assets/images/consulting_remote_img.png",
           "points": [
@@ -578,6 +588,7 @@
             "This offering is designed to handle the development of applications both for mobile and desktops. These applications ranges from the development of 'Proof of concepts' for validations of ideas and investor pitching to very large scale multienancy B2B and B2C applications."
           ]
         }
+        
       ],
       "techTrends": {
         "headerText": "Tech Trends",
