@@ -214,7 +214,7 @@
           },
           {
             "headerText": "BPS",
-            "subHeader": "Business Process as a Service",
+            "subHeader": "Business Processing as Service",
             "route": "/user-home/bussiness",
             "points": [
               "Outcome driven managed Processes",
@@ -315,7 +315,7 @@
       "route": "/user-home/ecom",
       "headerText": "Integration Platform",
       "rightArrow": "ui-assets/images/arrow.svg",
-      "subHeader": "House of ECOM is a clan of brillient professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
+      "subHeader": "House of ECOM is a clan of brilliant professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "imageUrl": "ui-assets/images/ecom/ecom-image.svg",
       "backgroundColor": "#cad6f4",
       "ecomPackages": [
@@ -729,7 +729,7 @@
       }
     },
     {
-      "name": "Bussiness Process as a Service",
+      "name": "Bussiness Processing as Service",
       "route": "/user-home/bussiness",
       "headerText": "BPS - Business Process Service",
       "subHeader": "We bring decades of expertise to identify the opportunities for outsourcing, designing customer centric methodologies for transition, technology enablement, stabilizing the operations at the best levels of efficiencies",
@@ -741,7 +741,7 @@
         "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in.",
         "offers": [
           {
-            "headerText": "Outcome driven manage Processes",
+            "headerText": "Outcome driven managed Processes",
             "imageUrl": "ui-assets/images/bussiness-services/filter-organization.svg",
             "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros ."
           },
@@ -751,14 +751,14 @@
             "imageUrl": "ui-assets/images/bussiness-services/meeting.svg"
           },
           {
-            "headerText": "Work from home enable XI- frame",
+            "headerText": "Work from home enabled on XI- Frame",
             "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .",
             "imageUrl": "ui-assets/images/bussiness-services/family.svg"
           }
         ],
         "services": [
           {
-            "headerText": "Outcome driven manage Processes",
+            "headerText": "Outcome driven managed Processes",
             "hasImageRight": false,
             "points": [
               "The offering is designed to efficiently manage the complete delivery responsibility beginning from Business discovery to BAU(business as usual) functioning of the processes",
@@ -776,7 +776,7 @@
             ]
           },
           {
-            "headerText": "Work from home enable XI- frame",
+            "headerText": "Work from home enabled on XI- Frame",
             "hasImageRight": false,
             "points": [
               "Xi-Frame is a Desktop-as-a-Service(DaaS) solution that lets you access your apps on any device and from any location. Easily create virtual workspaces for your teams, customers, or partners in under the an hour.",
