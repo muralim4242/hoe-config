@@ -4,7 +4,7 @@
   "backgroundUrl1": "ui-assets/images/background_url1.jpg",
   "menuItems": [
     {
-      "headerText": "A creative platform for redemptive brands",
+      "headerText": "A clan of brilliant professionals",
       "route": "/user-home",
       "subHeader": "House of ECOM is a clan of brilliant professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "paragaraph": "House of ECOM is a clan of brilliant professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
@@ -13,16 +13,16 @@
       "backgroundColor": "#cad6f4",
       "ourOfferings": {
         "headerText": "OUR OFFERINGS",
-        "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find around the web",
+        "subHeader": "",
         "items": [
           {
-            "headerText": "Integration Platform",
+            "headerText": "Platform Integration",
             "number": "01",
             "color": "#b4ecde",
             "hasButton": true,            
             "buttonHeader": "button",
             "route": "/user-home/integration-platform",
-            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros "
+            "subHeader": ""
           },
           {
             "headerText": "CONSULTING",
@@ -31,7 +31,7 @@
             "hasButton": true,
             "buttonHeader": "button",
             "route": "/user-home/consulting",
-            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros "
+            "subHeader": ""
           },
           {
             "headerText": "BPS",
@@ -40,7 +40,7 @@
             "hasButton": true,
             "buttonHeader": "button",
             "route": "/user-home/bussiness",
-            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros"
+            "subHeader": ""
           }
         ]
       },
