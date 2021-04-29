@@ -229,7 +229,7 @@
       }
     },
     {
-      "name": "Integration Platform",
+      "name": "Platform Integration",
       "route": "/user-home/integration-platform",
       "headerText": "Platform Integration",
       "rightArrow": "ui-assets/images/arrow.svg",
