@@ -440,17 +440,17 @@
       "headings": [
         {
           "imageUrl": "ui-assets/images/consulting_img_1.svg",
-          "headerText":"heading 1",
+          "headerText":"",
           "subHeader": "This Offering has been designed to cater to the contextual Need of talent in organisation of various sizes."
         },
         {
           "imageUrl": "ui-assets/images/consulting_img_2.svg",
-          "headerText":"heading 2",
+          "headerText":"",
           "subHeader": "Be it a newly launched startup or a large scale organization, there are always instances where the team needs additional bandwidth to meet deadlines."
         },
         {
           "imageUrl": "ui-assets/images/consulting_img_3.svg",
-          "headerText":"heading 3",
+          "headerText":"",
           "subHeader": "Under this offerings we are deploying consultants for a periods ranging from 3 months to 12 months , which could be extended based on the need and client’s business strategy."
         }
       ],
@@ -654,21 +654,21 @@
       "imageUrl": "ui-assets/images/bussiness-services/header-image.svg",
       "business_services": {
         "headerText": "Business Process service Offers",
-        "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in.",
+        "subHeader": "",
         "offers": [
           {
             "headerText": "Outcome driven managed Processes",
             "imageUrl": "ui-assets/images/bussiness-services/filter-organization.svg",
-            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros ."
+            "subHeader": ""
           },
           {
             "headerText": "Automation And Digitalization",
-            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .",
+            "subHeader": "",
             "imageUrl": "ui-assets/images/bussiness-services/meeting.svg"
           },
           {
             "headerText": "Work from home enabled on XI- Frame",
-            "subHeader": "Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .",
+            "subHeader": "",
             "imageUrl": "ui-assets/images/bussiness-services/family.svg"
           }
         ],
