@@ -25,7 +25,7 @@
             "subHeader": ""
           },
           {
-            "headerText": "CONSULTING",
+            "headerText": "Consulting",
             "number": "02",
             "color": "#ffdf7f",
             "hasButton": true,
@@ -34,7 +34,7 @@
             "subHeader": ""
           },
           {
-            "headerText": "BPS",
+            "headerText": "Business Process as Service",
             "number": "03",
             "color": "#f7dfe7",
             "hasButton": true,
@@ -231,9 +231,9 @@
     {
       "name": "Integration Platform",
       "route": "/user-home/integration-platform",
-      "headerText": "Integration Platform",
+      "headerText": "Platform Integration",
       "rightArrow": "ui-assets/images/arrow.svg",
-      "subHeader": "House of ECOM is a clan of brilliant professionals with deep domain knowledge of ECommerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
+      "subHeader": "House of ECOM is a clan of brilliant professionals with deep domain knowledge of E-Commerce combined with experience of designing and developing state of the art tech products and managing large scale business processing services.",
       "imageUrl": "ui-assets/images/ecom/ecom-image.svg",
       "backgroundColor": "#cad6f4",
       "ecomPackages": [
@@ -255,27 +255,27 @@
         }
       ],
       "offers": {
-        "headerText": "Integration Platform Offers",
-        "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find around the web",
+        "headerText": "Platform Integration Offers",
+        "subHeader": "",
         "items": [
           {
             "imageUrl": "ui-assets/images/ecom_offers_item_1.jpg",
             "header": "Design & Development",
-            "content": "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
+            "content": "",
             "hasButton": true,
             "buttonText": "Learn more"
           },
           {
             "imageUrl": "ui-assets/images/ecom_offers_item_2.jpg",
             "header": "Devops & CI- CD related Service",
-            "content": "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
+            "content": "",
             "hasButton": true,
             "buttonText": "Learn more"
           },
           {
             "imageUrl": "ui-assets/images/ecom_offers_item_3.jpg",
             "header": "Tech & Shared Services ",
-            "content": "Ut bibendum sagittis nibh, eget finibus sapien ornare sed. Mauris eget elit pharetra neque dictum bibendum at vestibulum sapien. Proin sodales, ex ac ornare hendrerit, nulla nisl semper leo",
+            "content": "",
             "hasButton": true,
             "buttonText": "Learn more"
           }
