@@ -92,42 +92,42 @@
         "items": [
           {
             "headerText": "",
-            "imageUrl": "ui-assets/images/hdfc_bank.jpg",
+            "imageUrl": "ui-assets/images/hdfcbank.png",
             "background": "#b4ecde",
             "width": "85%",
             "height": "175px"
           },
           {
             "headerText": "",
-            "imageUrl": "ui-assets/images/universal.jpg",
+            "imageUrl": "ui-assets/images/universalinsurance.png",
             "background": "#a0d8eb",
             "width": "100%",
             "height": "175px"
           },
           {
             "headerText": "",
-            "imageUrl": "ui-assets/images/indian_money.jpg",
+            "imageUrl": "ui-assets/images/IndianMoney.png",
             "background": "#b4ecde",
             "width": "85%",
             "height": "175px"
           },
           {
             "headerText": "",
-            "imageUrl": "ui-assets/images/bull_force.jpg",
+            "imageUrl": "ui-assets/images/BullForce.png",
             "background": "#a0d8eb",
             "width": "221px",
             "height": "275px"
           },
           {
             "headerText": "",
-            "imageUrl": "ui-assets/images/first_life.jpg",
+            "imageUrl": "ui-assets/images/firstlife.png",
             "background": "#a0d8eb",
             "width": "221px",
             "height": "275px"
           },
           {
             "headerText": "",
-            "imageUrl": "ui-assets/images/yellow_buds.jpg",
+            "imageUrl": "ui-assets/images/yellowbuds.png",
             "background": "#b4ecde",
             "width": "85%",
             "height": "175px"
@@ -141,7 +141,7 @@
           },
           {
             "headerText": "",
-            "imageUrl": "ui-assets/images/star_p.jpg",
+            "imageUrl": "ui-assets/images/star.png",
             "background": "#b4ecde",
             "width": "85%",
             "height": "175px"
