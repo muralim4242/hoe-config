@@ -48,42 +48,30 @@
         "headerText": "Tech Trends",
         "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find  around the web",
         "items": [
-          {
-            "headerText": "Does Magento Need to Worry About the Future?",
-            "subHeader": "Magento partnering with Easyship. Amazon entering the market of eCommerce solutions. Microsoft s plans regarding PWA. GoMage PWA Storefront Update.",
-            "imageUrl": "ui-assets/images/tech_trend_img_1.jpg",
-            "videoUrl": "https://www.youtube.com/watch?v=BvVxnvUH5gM"
-          },
-          {
-            "headerText": "Lorem Ipsum",
-            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
-            "imageUrl": "ui-assets/images/tech_trend_img_2.jpg",
-            "videoUrl": "https://youtu.be/HOD6yqCejYk"
-          },
-          {
-            "headerText": "Lorem Ipsum",
-            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
-            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
-            "videoUrl": "https://m.youtube.com/watch?v=uirMQDdW4-c&feature=youtu.be"
-          },
-          {
-            "headerText": "Lorem Ipsum",
-            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
-            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
-            "videoUrl": "https://m.youtube.com/watch?v=uirMQDdW4-c&feature=youtu.be"
-          },
-          {
-            "headerText": "Lorem Ipsum",
-            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
-            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
-            "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4"
-          },
-          {
-            "headerText": "Lorem Ipsum",
-            "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
-            "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
-            "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4"
-          }
+           {
+              "headerText": "Does Magento Need to Worry About the Future?",
+              "subHeader": "Magento partnering with Easyship. Amazon entering the market of eCommerce solutions. Microsoft s plans regarding PWA. GoMage PWA Storefront Update.",
+              "imageUrl": "ui-assets/images/tech_trend_img_1.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=BvVxnvUH5gM"
+            },
+            {
+              "headerText": "Shopify president on retail trends: 71% of U.S. online sales were made on mobile",
+              "subHeader": "CNBC's Squawk Alley team discusses retail trends during the holidays amid the pandemic as online sales surge with Shopify president Harley Finkelstein. ",
+              "imageUrl": "ui-assets/images/tech_trend_img_2.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=zY0aMVrA0bE"
+            },
+            {
+              "headerText": "Introduction to SAP Hybris MasterClass - SmartEdit & WCMS ",
+              "subHeader": "Take the SAP Hybris MasterClass @ http://www.runhybris.com/MasterClass​ <br>          In the following tutorial, we we explore the SmartEdit functionality of SAP Hybris. We'll examine how to access the SmartEdit cockpit and take a brief look at the cockpit layout. We will then make an edit to the electronics storefront of SAP Hybris and add a new text field to the home page.",
+              "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=ZJRKQLvkTeE"
+            },
+            {
+              "headerText": "What's the top Tech Stack for 2020? (for software engineers)",
+              "subHeader": "Ex-Google TechLead on a modern coding tech stack for 2020.  Try Dashlane for free on your first device by heading to https://www.dashlane.com/techlead​ and then when you want to upgrade to premium use the code techlead for 10% off premium.",
+              "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
+              "videoUrl": "https://www.youtube.com/watch?v=5fHG55WFwmQ"
+            }
         ]
       },
       "ourClients": {
