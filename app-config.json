@@ -453,7 +453,7 @@
       },
       "staffAgumentation": {
         "headerText": "Staff agumentation & Skills",
-        "imageUrl": "ui-assets/images/consulting_skills_img.png"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/hoewebsite-d8fc5.appspot.com/o/group-4.svg?alt=media&token=e701dd6d-0cfd-4dc4-b284-ac81592288b0"
       },
       "coDevAsService": {
         "headerText": "Co - Development as service",
