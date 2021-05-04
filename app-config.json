@@ -19,7 +19,7 @@
             "headerText": "Platform Integration",
             "number": "01",
             "color": "#b4ecde",
-            "hasButton": true,            
+            "hasButton": true,
             "buttonHeader": "button",
             "route": "/user-home/integration-platform",
             "subHeader": ""
@@ -47,11 +47,10 @@
       "techTrends": {
         "headerText": "Tech Trends",
         "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find  around the web",
-       "items": [
+        "items": [
           {
             "headerText": "Does Magento Need to Worry About the Future?",
-            "subHeader": "Magento partnering with Easyship. Amazon entering the market of eCommerce solutions. Microsoft’s plans regarding PWA. GoMage PWA Storefront Update. Watch the video for the latest news in eCommerce and Magento.
-",
+            "subHeader": "Magento partnering with Easyship. Amazon entering the market of eCommerce solutions. Microsoft’s plans regarding PWA. GoMage PWA Storefront Update. Watch the video for the latest news in eCommerce and Magento.",
             "imageUrl": "ui-assets/images/tech_trend_img_1.jpg",
             "videoUrl": "https://www.youtube.com/watch?v=BvVxnvUH5gM"
           },
@@ -77,13 +76,13 @@
             "headerText": "Lorem Ipsum",
             "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
             "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
-             "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4"
+            "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4"
           },
           {
             "headerText": "Lorem Ipsum",
             "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
             "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
-             "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4"
+            "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4"
           }
         ]
       },
@@ -150,7 +149,6 @@
         ],
         "backgroundUrl": "ui-assets/images/right-pic-1.svg"
       },
-     
       "stories": {
         "headerText": "People love House of Ecom. See some of the stories.",
         "leftQuoteurl": "ui-assets/images/left_quote.svg",
@@ -441,17 +439,17 @@
       "headings": [
         {
           "imageUrl": "ui-assets/images/consulting_img_1.svg",
-          "headerText":"",
+          "headerText": "",
           "subHeader": "This Offering has been designed to cater to the contextual Need of talent in organisation of various sizes."
         },
         {
           "imageUrl": "ui-assets/images/consulting_img_2.svg",
-          "headerText":"",
+          "headerText": "",
           "subHeader": "Be it a newly launched startup or a large scale organization, there are always instances where the team needs additional bandwidth to meet deadlines."
         },
         {
           "imageUrl": "ui-assets/images/consulting_img_3.svg",
-          "headerText":"",
+          "headerText": "",
           "subHeader": "Under this offerings we are deploying consultants for a periods ranging from 3 months to 12 months , which could be extended based on the need and client’s business strategy."
         }
       ],
@@ -479,13 +477,13 @@
           "We also specialise in setting-up highly customized offshore development centers with end-to-end management covering talent acquisition, performance management, statutory obligations and overall operations management."
         ]
       },
-         "services": [
+      "services": [
         {
           "headerText": "Software application design as service ",
           "imageUrl": "ui-assets/images/consulting_remote_img.png",
           "points": [
             "Design consistency is what ties User Interface elements together with distinguishable and predictable actions, which is the key for great product experience. A way to simplify things is to think of it as a commitment that you make to your users so that they can easily interact with your product.",
-            "As they become more acquainted and become more regular users, they begin to trust the product more and more, which is a reflection of the consistent design. To provide users with a consistent User Interface."           
+            "As they become more acquainted and become more regular users, they begin to trust the product more and more, which is a reflection of the consistent design. To provide users with a consistent User Interface."
           ]
         },
         {
@@ -505,7 +503,6 @@
             "This offering is designed to handle the development of applications both for mobile and desktops. These applications ranges from the development of 'Proof of concepts' for validations of ideas and investor pitching to very large scale multienancy B2B and B2C applications."
           ]
         }
-        
       ],
       "techTrends": {
         "headerText": "Tech Trends",
@@ -551,7 +548,7 @@
             "headerText": "Lorem Ipsum",
             "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
             "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
-             "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4",
+            "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4",
             "hasButton": true,
             "outline": false,
             "buttonHeader": "button"
@@ -560,7 +557,7 @@
             "headerText": "Lorem Ipsum",
             "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum",
             "imageUrl": "ui-assets/images/tech_trend_img_3.jpg",
-             "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4",
+            "videoUrl": "https://youtu.be/v1DT4yvxpMw.mp4",
             "hasButton": true,
             "outline": false,
             "buttonHeader": "button"
