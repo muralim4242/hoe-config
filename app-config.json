@@ -46,7 +46,7 @@
       },
       "techTrends": {
         "headerText": "Tech Trends",
-        "subHeader": "There are a number of features that make RandomText a little different from other Lorem Ipsum dummy text generators you may find  around the web",
+        "subHeader": "",
         "items": [
            {
               "headerText": "Does Magento Need to Worry About the Future?",
@@ -184,7 +184,7 @@
         "mapUrl": "ui-assets/images/map.jpg",
         "backgroundUrl": "ui-assets/images/wave_background.svg",
         "headerText": "Get notified about new amazing products",
-        "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
+        "subHeader": "",
         "contents": [
           "Product",
           "Company",
@@ -385,7 +385,7 @@
         "mapUrl": "ui-assets/images/map.jpg",
         "backgroundUrl": "ui-assets/images/wave_background.svg",
         "headerText": "Get notified about new amazing products",
-        "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
+        "subHeader": "",
         "contents": [
           "Product",
           "Company",
@@ -599,7 +599,7 @@
         "mapUrl": "ui-assets/images/map.jpg",
         "backgroundUrl": "ui-assets/images/wave_background.svg",
         "headerText": "Get notified about new amazing products",
-        "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
+        "subHeader": "",
         "contents": [
           "Product",
           "Company",
@@ -777,7 +777,7 @@
         "mapUrl": "ui-assets/images/map.jpg",
         "backgroundUrl": "ui-assets/images/wave_background.svg",
         "headerText": "Get notified about new amazing products",
-        "subHeader": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard dummy text ever since. James Duren, CTO, Fish&co",
+        "subHeader": "",
         "contents": [
           "Product",
           "Company",
